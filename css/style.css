@@ -1,0 +1,15 @@
+.app-container{
+    gap: 30px;
+}
+.todos_list{
+    gap: 10px;
+}
+ul{
+    list-style-type: none;
+}
+.done{
+    text-decoration: line-through;
+}
+.list_item{
+    cursor: pointer;
+}
